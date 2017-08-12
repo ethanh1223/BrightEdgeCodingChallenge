@@ -1,0 +1,38 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+#selectedButton {
+  color: red;
+}
+
+img {
+  max-width: 10px;
+  height: auto
+}
+
+#searchBarContainer {
+  margin-bottom: 20px
+}
+
+#clearFilterButton {
+  margin-bottom: 20px
+}
+
+.hideColumnButton {
+  display: block;
+  margin: 0 auto;
+}
+
+.headerTextNode {
+  padding-right: 10px;
+}
+
+#hiddenColumnsNode {
+  font-size: 20px;
+  padding-bottom: 20px
+}
+
+.showColumnNode {
+  color: red;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "brightedgechallenge",
+  "version": "1.0.0",
+  "description": "coding challenge for bright edg",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "repository": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ethan Harry",
+  "license": "ISC"
+}
